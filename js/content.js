@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
         content.innerHTML = '<h2><a href="https://github.com/mwojd/manipulatedFortuneWheel" target="_blank">a fortune wheel with manipulated odds -html/css/js</br></a></h2>'
     })
     projectsButt.addEventListener("click", () => {
-        content.innerHTML='<h3><a href="https://github.com/mwojd/manipulatedFortuneWheel" target="_blank">a fortune wheel with manipulated odds - c++</a></br>\
+        content.innerHTML='<h3><a href="https://github.com/mwojd/reallySimplePortfolio" target="_blank">THIS website - html/css/js</a></br>\
+        <a href="https://github.com/mwojd/manipulatedFortuneWheel" target="_blank">a fortune wheel with manipulated odds - c++</a></br>\
         <a href="https://github.com/mwojd/ProjektSystemy" target="_blank">a simple "presentation" about operating systems -html/css/js</a></h3>'
     })
     faqButt.addEventListener("click", () => {
