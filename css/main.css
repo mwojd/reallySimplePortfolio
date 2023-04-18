@@ -68,3 +68,11 @@ head,body {
     width: 2%;
     height: 2%;
 }
+.content a {
+    all:unset;
+    cursor: pointer;
+    color:rgb(180, 155, 123);
+}
+.content a:hover {
+    font-style: italic;
+}
