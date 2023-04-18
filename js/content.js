@@ -24,8 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
         <br>Q:would you say that you are experienced or advanced in your field?</br>A:no! not at all! I still have a lot to learn</br> '
     })
     contactButt.addEventListener("click", () => {
-        content.innerHTML= '<h1>discord: teev#9322</br>\
-        mail: wojdaszewiczmikolaj@gmail.com</br>\
-        <a href="https://github.com/mwojd" target="_blank">github: @mwojd</a></h1>';
+        content.innerHTML= '<h1><img src="./resources/discord.png">discord: teev#9322</br>\
+        <img src="./resources/email.png">   mail: wojdaszewiczmikolaj@gmail.com</br>\
+        <img src="./resources/github.png">   <a href="https://github.com/mwojd" target="_blank">github: @mwojd</a></h1>';
     })
 });
